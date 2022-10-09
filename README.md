@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pereere, a Web and Graphics Designer, Skilled Blogger, and a prolific writer/editor.
+- 👋 Hi, I’m Smart, a Web and Graphics Designer, Skilled Blogger, and a prolific writer/editor.
 - 👀 I’m interested in Web Development, Grahpics Designing, and writing.
 - 🌱 I’m currently learning Advanced React JS and Native.
 - 💞️ I’m looking to collaborate on React JS, React Native, and Advanced Front-end Development.
