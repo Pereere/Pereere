@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Grahpics Designing, and writing.
 - 🌱 I’m currently learning Advanced React JS and Native.
 - 💞️ I’m looking to collaborate on React JS, React Native, and Advanced Front-end Development.
-- 📫 How to reach me | machinep10@gmail.com or +2348105642007
+- 📫 How to reach me | email: smart@machinep.com or phone: +234(0)8105642007
 
 <!---
 Pereere/Pereere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
